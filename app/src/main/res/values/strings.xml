@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TextValidator_233012</string>
+    <string name="email">Email</string>
+    <string name="Required" />
+    <string name="required" />
+    <string name="submit">Enviar</string>
+    <string name="numero_telefono">Telefono</string>
+    <string name="phone_number">Numero</string>
+    <string name="requirido">Requerido</string>
+    <string name="password">Contraseña</string>
+    <string name="user">Usuario</string>
+</resources>
